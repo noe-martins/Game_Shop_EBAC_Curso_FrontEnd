@@ -2,6 +2,9 @@
 Páginas "Sobre" e "Contato" de um site estático de uma loja de games
 <br>
 
+## Link do Site
+<a href="https://game-shop-ebac-delta.vercel.app/">https://game-shop-ebac-delta.vercel.app/</a>
+
 ## Screenshot do Projeto
 <img align="center" height="300" alt="Imagem Final do projeto" src="https://github.com/noe-martins/Game_Shop_EBAC_Curso_FrontEnd/blob/main/Projeto%20Game%20Shop.gif ">
 
